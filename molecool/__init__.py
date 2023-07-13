@@ -7,7 +7,7 @@ from molecool.measure import calculate_angle
 from molecool.measure import calculate_distance
 from molecool.atom_data import atomic_weights, atom_colors
 from molecool.visualization import draw_molecule
-from molecool.molecules import build_bond_list, bond_histogram
+from molecool.molecules import build_bond_list, bond_histogram, compute_molecular_mass
 
 
 
